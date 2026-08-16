@@ -1,0 +1,50 @@
+[
+  {
+    "id": "c1",
+    "name": "Eléctrico",
+    "slug": "electrico",
+    "image": "/images/categories/electrico.jpg",
+    "description": "Instalaciones, tableros, circuitos y reparaciones eléctricas para hogar y empresa, bajo normativa RETIE.",
+    "enabled": true
+  },
+  {
+    "id": "c2",
+    "name": "Mantenimiento",
+    "slug": "mantenimiento",
+    "image": "/images/categories/mantenimiento.jpg",
+    "description": "Mantenimiento preventivo y correctivo de instalaciones técnicas del hogar y el negocio.",
+    "enabled": true
+  },
+  {
+    "id": "c3",
+    "name": "Acueducto",
+    "slug": "acueducto",
+    "image": "/images/categories/acueducto.jpg",
+    "description": "Plomería, tubería, agua potable y soluciones de acueducto residencial y comercial.",
+    "enabled": true
+  },
+  {
+    "id": "c4",
+    "name": "Gas domiciliario",
+    "slug": "gas",
+    "image": "/images/categories/gas.jpg",
+    "description": "Instalación y mantenimiento de redes de gas domiciliario.",
+    "enabled": false
+  },
+  {
+    "id": "c5",
+    "name": "Cámaras y seguridad",
+    "slug": "camaras-y-seguridad",
+    "image": "/images/categories/camaras-y-seguridad.jpg",
+    "description": "Instalación de cámaras CCTV y dispositivos de seguridad para hogar, conjunto o negocio.",
+    "enabled": true
+  },
+  {
+    "id": "c6",
+    "name": "Cableado eléctrico",
+    "slug": "cableado-electrico",
+    "image": "/images/categories/cableado-electrico.jpg",
+    "description": "Cableado eléctrico y estructurado, redes de datos y organización de instalaciones.",
+    "enabled": true
+  }
+]

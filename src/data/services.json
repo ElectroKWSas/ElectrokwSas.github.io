@@ -1,0 +1,417 @@
+[
+  {
+    "id": "s1",
+    "slug": "instalacion-electrica-residencial",
+    "category": "electrico",
+    "name": "Instalación eléctrica residencial completa",
+    "price": 850000,
+    "priceType": "desde",
+    "description": "Diseño e instalación completa del sistema eléctrico de tu vivienda u obra nueva: circuitos, tablero, tomas, iluminación y puesta a tierra, cumpliendo la normativa RETIE vigente. Incluye visita técnica previa para definir alcance y materiales.",
+    "shortDescription": "Circuitos, tablero, tomas e iluminación, bajo normativa RETIE.",
+    "features": [
+      "Diseño de circuitos según carga real",
+      "Tablero de distribución certificado",
+      "Puesta a tierra y protecciones",
+      "Materiales certificados",
+      "Cumplimiento normativo RETIE"
+    ],
+    "duration": "2-4 días hábiles según metraje",
+    "warranty": "Garantía de 1 año en mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/instalacion-electrica-residencial-1.jpg",
+      "/images/services/instalacion-electrica-residencial-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "createdAt": "2026-01-10",
+    "sku": "EKW-001",
+    "relatedIds": ["s2", "s3"]
+  },
+  {
+    "id": "s2",
+    "slug": "reparacion-fallas-electricas",
+    "category": "electrico",
+    "name": "Reparación de cortos y fallas eléctricas",
+    "price": 120000,
+    "priceType": "desde",
+    "description": "Diagnóstico y corrección de cortocircuitos, tomas sin corriente, breakers que disparan y fallas intermitentes. Atendemos con prioridad los casos que representan riesgo para las personas o los equipos conectados.",
+    "shortDescription": "Diagnóstico y corrección de fallas o cortos eléctricos.",
+    "features": [
+      "Diagnóstico con equipo de medición",
+      "Corrección del origen de la falla, no solo el síntoma",
+      "Revisión de protecciones",
+      "Informe técnico de lo encontrado"
+    ],
+    "duration": "1-3 horas",
+    "warranty": "Garantía de 6 meses en mano de obra",
+    "emergency": true,
+    "images": [
+      "/images/services/reparacion-fallas-electricas-1.jpg",
+      "/images/services/reparacion-fallas-electricas-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "createdAt": "2026-02-02",
+    "sku": "EKW-002",
+    "relatedIds": ["s1", "s4"]
+  },
+  {
+    "id": "s3",
+    "slug": "instalacion-tablero-electrico",
+    "category": "electrico",
+    "name": "Instalación de tablero eléctrico certificado",
+    "price": 480000,
+    "priceType": "desde",
+    "description": "Suministro e instalación de tablero de distribución eléctrico con breakers, barraje y protecciones dimensionadas según la carga del inmueble, cumpliendo RETIE.",
+    "shortDescription": "Tablero de distribución con protecciones, según normativa RETIE.",
+    "features": [
+      "Tablero certificado",
+      "Breakers dimensionados por circuito",
+      "Rotulado de circuitos",
+      "Prueba de funcionamiento incluida"
+    ],
+    "duration": "1 día hábil",
+    "warranty": "Garantía de 1 año en mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/instalacion-tablero-electrico-1.jpg",
+      "/images/services/instalacion-tablero-electrico-2.jpg"
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-04-18",
+    "sku": "EKW-003",
+    "relatedIds": ["s1", "s2"]
+  },
+  {
+    "id": "s4",
+    "slug": "mantenimiento-preventivo-conjuntos",
+    "category": "mantenimiento",
+    "name": "Mantenimiento preventivo para conjuntos residenciales",
+    "price": 0,
+    "priceType": "cotizar",
+    "description": "Plan de mantenimiento preventivo periódico de las instalaciones eléctricas e hidráulicas de zonas comunes en conjuntos residenciales y edificios, con informe técnico después de cada visita.",
+    "shortDescription": "Plan periódico de mantenimiento para zonas comunes.",
+    "features": [
+      "Revisión de tableros generales y subestación",
+      "Revisión de bombas y redes hidráulicas comunes",
+      "Informe técnico con recomendaciones",
+      "Plan ajustado a la administración del conjunto"
+    ],
+    "duration": "Según plan acordado",
+    "warranty": "Garantía por escrito en cada visita",
+    "emergency": false,
+    "images": [
+      "/images/services/mantenimiento-preventivo-conjuntos-1.jpg",
+      "/images/services/mantenimiento-preventivo-conjuntos-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "createdAt": "2026-01-25",
+    "sku": "EKW-004",
+    "relatedIds": ["s5", "s2"]
+  },
+  {
+    "id": "s5",
+    "slug": "revision-tecnica-general",
+    "category": "mantenimiento",
+    "name": "Revisión técnica general del hogar",
+    "price": 90000,
+    "priceType": "fijo",
+    "description": "Diagnóstico general de las instalaciones eléctricas, hidráulicas y de seguridad del hogar, con recomendaciones priorizadas para prevenir fallas y planear mantenimientos futuros.",
+    "shortDescription": "Diagnóstico general de instalaciones del hogar.",
+    "features": [
+      "Revisión eléctrica básica",
+      "Revisión de tuberías visibles",
+      "Revisión de dispositivos de seguridad instalados",
+      "Informe con recomendaciones priorizadas"
+    ],
+    "duration": "1-2 horas",
+    "warranty": "No aplica (servicio de diagnóstico)",
+    "emergency": false,
+    "images": [
+      "/images/services/revision-tecnica-general-1.jpg",
+      "/images/services/revision-tecnica-general-2.jpg"
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-05-05",
+    "sku": "EKW-005",
+    "relatedIds": ["s4"]
+  },
+  {
+    "id": "s6",
+    "slug": "reparacion-fugas-agua",
+    "category": "acueducto",
+    "name": "Detección y reparación de fugas de agua",
+    "price": 100000,
+    "priceType": "desde",
+    "description": "Localización de fugas visibles y ocultas en tuberías de acueducto, con reparación inmediata para evitar sobrecostos en el servicio de agua y daños estructurales.",
+    "shortDescription": "Localización y reparación de fugas en tubería de acueducto.",
+    "features": [
+      "Detección de fugas visibles y ocultas",
+      "Reparación o reemplazo del tramo afectado",
+      "Prueba de presión posterior",
+      "Recomendaciones para evitar recurrencia"
+    ],
+    "duration": "1-3 horas según complejidad",
+    "warranty": "Garantía de 6 meses en mano de obra",
+    "emergency": true,
+    "images": [
+      "/images/services/reparacion-fugas-agua-1.jpg",
+      "/images/services/reparacion-fugas-agua-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "createdAt": "2026-02-14",
+    "sku": "EKW-006",
+    "relatedIds": ["s7", "s8"]
+  },
+  {
+    "id": "s7",
+    "slug": "instalacion-tuberia-pvc",
+    "category": "acueducto",
+    "name": "Instalación de tubería PVC y accesorios",
+    "price": 65000,
+    "priceType": "desde",
+    "description": "Instalación y reemplazo de tramos de tubería PVC para agua potable y desagüe, con accesorios certificados y prueba de hermeticidad al finalizar.",
+    "shortDescription": "Instalación y reemplazo de tubería PVC para agua potable.",
+    "features": [
+      "Tubería y accesorios certificados",
+      "Prueba de hermeticidad",
+      "Aseo del área de trabajo al finalizar"
+    ],
+    "duration": "Según metros lineales",
+    "warranty": "Garantía de 6 meses en mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/instalacion-tuberia-pvc-1.jpg",
+      "/images/services/instalacion-tuberia-pvc-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-08",
+    "sku": "EKW-007",
+    "relatedIds": ["s6", "s8"]
+  },
+  {
+    "id": "s8",
+    "slug": "destape-tuberias",
+    "category": "acueducto",
+    "name": "Destape de tuberías y desagües",
+    "price": 70000,
+    "priceType": "desde",
+    "description": "Destape de sifones, desagües y tuberías obstruidas en cocina, baño y áreas de ropas, con equipo especializado.",
+    "shortDescription": "Destape de sifones, desagües y tuberías obstruidas.",
+    "features": [
+      "Equipo especializado de destape",
+      "Revisión del estado general de la tubería",
+      "Recomendaciones de mantenimiento"
+    ],
+    "duration": "1 hora aprox.",
+    "warranty": "Garantía de 30 días",
+    "emergency": true,
+    "images": [
+      "/images/services/destape-tuberias-1.jpg",
+      "/images/services/destape-tuberias-2.jpg"
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-04-30",
+    "sku": "EKW-008",
+    "relatedIds": ["s6", "s7"]
+  },
+  {
+    "id": "s9",
+    "slug": "instalacion-red-gas",
+    "category": "gas",
+    "name": "Instalación de red de gas domiciliario",
+    "price": 0,
+    "priceType": "cotizar",
+    "description": "Diseño e instalación de red de gas domiciliario para cocina, calentador u otros puntos de consumo, cumpliendo la normativa técnica vigente. Servicio próximamente disponible.",
+    "shortDescription": "Diseño e instalación de red de gas domiciliario.",
+    "features": [
+      "Diseño de red según puntos de consumo",
+      "Materiales certificados",
+      "Prueba de hermeticidad"
+    ],
+    "duration": "Según alcance",
+    "warranty": "Garantía por escrito en mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/instalacion-red-gas-1.jpg",
+      "/images/services/instalacion-red-gas-2.jpg"
+    ],
+    "available": false,
+    "isNew": true,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-06-01",
+    "sku": "EKW-009",
+    "relatedIds": ["s10"]
+  },
+  {
+    "id": "s10",
+    "slug": "revision-certificacion-gas",
+    "category": "gas",
+    "name": "Revisión y certificación de instalación de gas",
+    "price": 0,
+    "priceType": "cotizar",
+    "description": "Revisión técnica de instalaciones de gas domiciliario existentes, con recomendaciones de ajuste. Servicio próximamente disponible.",
+    "shortDescription": "Revisión técnica de instalaciones de gas existentes.",
+    "features": [
+      "Revisión de puntos de consumo",
+      "Prueba de fugas",
+      "Informe técnico"
+    ],
+    "duration": "Según alcance",
+    "warranty": "No aplica (servicio de revisión)",
+    "emergency": false,
+    "images": [
+      "/images/services/revision-certificacion-gas-1.jpg",
+      "/images/services/revision-certificacion-gas-2.jpg"
+    ],
+    "available": false,
+    "isNew": true,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-06-01",
+    "sku": "EKW-010",
+    "relatedIds": ["s9"]
+  },
+  {
+    "id": "s11",
+    "slug": "instalacion-camaras-cctv",
+    "category": "camaras-y-seguridad",
+    "name": "Instalación de cámaras de seguridad CCTV",
+    "price": 650000,
+    "priceType": "desde",
+    "description": "Diseño e instalación de sistemas de cámaras CCTV para hogar, conjunto residencial o negocio, con configuración de grabación y acceso remoto desde el celular.",
+    "shortDescription": "Sistemas de cámaras CCTV con acceso remoto desde el celular.",
+    "features": [
+      "Cámaras HD para interior y exterior",
+      "Grabador (DVR/NVR) configurado",
+      "Acceso remoto desde app móvil",
+      "Cableado y fuentes incluidas"
+    ],
+    "duration": "1 día hábil según número de cámaras",
+    "warranty": "Garantía de 1 año en equipos y mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/instalacion-camaras-cctv-1.jpg",
+      "/images/services/instalacion-camaras-cctv-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "createdAt": "2026-01-20",
+    "sku": "EKW-011",
+    "relatedIds": ["s12"]
+  },
+  {
+    "id": "s12",
+    "slug": "sistema-alarma-sensores",
+    "category": "camaras-y-seguridad",
+    "name": "Sistema de alarma y sensores de seguridad",
+    "price": 420000,
+    "priceType": "desde",
+    "description": "Instalación de sistema de alarma con sensores de movimiento y apertura, con notificaciones al celular ante eventos.",
+    "shortDescription": "Alarma con sensores de movimiento y notificaciones al celular.",
+    "features": [
+      "Sensores de movimiento y apertura",
+      "Sirena y notificación push",
+      "Configuración de zonas"
+    ],
+    "duration": "1 día hábil",
+    "warranty": "Garantía de 1 año en equipos y mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/sistema-alarma-sensores-1.jpg",
+      "/images/services/sistema-alarma-sensores-2.jpg"
+    ],
+    "available": true,
+    "isNew": true,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-05-15",
+    "sku": "EKW-012",
+    "relatedIds": ["s11"]
+  },
+  {
+    "id": "s13",
+    "slug": "cableado-estructurado-redes",
+    "category": "cableado-electrico",
+    "name": "Cableado estructurado para redes de datos",
+    "price": 380000,
+    "priceType": "desde",
+    "description": "Instalación de cableado estructurado (red de datos) para hogar o negocio: puntos de red, patch panel y organización del rack, certificando cada punto instalado.",
+    "shortDescription": "Puntos de red, patch panel y organización de rack.",
+    "features": [
+      "Cableado categoría 6",
+      "Certificación de cada punto",
+      "Organización de rack y patch panel",
+      "Rotulado de puntos"
+    ],
+    "duration": "Según número de puntos",
+    "warranty": "Garantía de 1 año en mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/cableado-estructurado-redes-1.jpg",
+      "/images/services/cableado-estructurado-redes-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "createdAt": "2026-02-25",
+    "sku": "EKW-013",
+    "relatedIds": ["s14"]
+  },
+  {
+    "id": "s14",
+    "slug": "organizacion-cableado-electrico",
+    "category": "cableado-electrico",
+    "name": "Organización y canalización de cableado eléctrico",
+    "price": 150000,
+    "priceType": "desde",
+    "description": "Orden y canalización de cableado eléctrico expuesto o desorganizado, con canaletas y marcación, mejorando seguridad y estética del espacio.",
+    "shortDescription": "Orden y canalización de cableado eléctrico expuesto.",
+    "features": [
+      "Instalación de canaletas",
+      "Marcación de circuitos",
+      "Eliminación de riesgos de cables sueltos"
+    ],
+    "duration": "3-6 horas según alcance",
+    "warranty": "Garantía de 6 meses en mano de obra",
+    "emergency": false,
+    "images": [
+      "/images/services/organizacion-cableado-electrico-1.jpg",
+      "/images/services/organizacion-cableado-electrico-2.jpg"
+    ],
+    "available": true,
+    "isNew": false,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-20",
+    "sku": "EKW-014",
+    "relatedIds": ["s13"]
+  }
+]

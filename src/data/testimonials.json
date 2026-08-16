@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "name": "Marcela Rojas",
+    "role": "Propietaria de vivienda",
+    "location": "Chía, Cundinamarca",
+    "quote": "Tuvimos una falla eléctrica un sábado en la tarde y llegaron el mismo día. Encontraron el problema real, no solo lo taparon, y quedó todo certificado.",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "name": "Andrés Fonseca",
+    "role": "Administrador de conjunto residencial",
+    "location": "Cajicá, Cundinamarca",
+    "quote": "Llevamos varios meses con ElectroKW en el mantenimiento preventivo de zonas comunes. Son puntuales, entregan informe después de cada visita y eso nos ha ahorrado varios daños mayores.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "name": "Laura Jiménez",
+    "role": "Propietaria de local comercial",
+    "location": "Zipaquirá, Cundinamarca",
+    "quote": "Instalaron las cámaras de seguridad de nuestro local y quedamos con acceso remoto desde el celular. Muy claros explicando cada paso, y el trabajo quedó impecable.",
+    "rating": 5
+  },
+  {
+    "id": "t4",
+    "name": "Carlos Beltrán",
+    "role": "Propietario de vivienda",
+    "location": "Mosquera, Cundinamarca",
+    "quote": "Tenía una fuga de agua que ya llevaba semanas y otros técnicos no lograban ubicar. La encontraron rápido y la garantía por escrito me dio mucha tranquilidad.",
+    "rating": 5
+  }
+]

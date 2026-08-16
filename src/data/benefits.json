@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b1",
+    "icon": "FaUserGraduate",
+    "title": "Técnicos certificados",
+    "description": "Personal técnico capacitado y con experiencia en cada especialidad que ofrecemos."
+  },
+  {
+    "id": "b2",
+    "icon": "FaClipboardCheck",
+    "title": "Cumplimiento normativo",
+    "description": "Instalaciones eléctricas bajo normativa RETIE/RETILAP y buenas prácticas del sector."
+  },
+  {
+    "id": "b3",
+    "icon": "FaClipboardList",
+    "title": "Visita técnica sin costo",
+    "description": "Evaluamos tu caso y te cotizamos antes de cobrar cualquier valor."
+  },
+  {
+    "id": "b4",
+    "icon": "FaBolt",
+    "title": "Atención de urgencias",
+    "description": "Respuesta prioritaria para casos de emergencia dentro de nuestro horario de atención."
+  },
+  {
+    "id": "b5",
+    "icon": "FaFileSignature",
+    "title": "Garantía por escrito",
+    "description": "Cada trabajo se entrega con garantía por escrito, según el servicio realizado."
+  },
+  {
+    "id": "b6",
+    "icon": "FaBoxOpen",
+    "title": "Materiales certificados",
+    "description": "Usamos materiales y equipos certificados para cada instalación."
+  }
+]

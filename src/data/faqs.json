@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f1",
+    "question": "¿Qué zonas cubre ElectroKW?",
+    "answer": "Atendemos todo el departamento de Cundinamarca, tanto hogares y conjuntos residenciales como pequeñas y medianas empresas."
+  },
+  {
+    "id": "f2",
+    "question": "¿La visita técnica tiene costo?",
+    "answer": "No, la visita técnica y la cotización inicial no tienen costo. Solo se cobra el valor del servicio una vez lo apruebas."
+  },
+  {
+    "id": "f3",
+    "question": "¿Atienden emergencias?",
+    "answer": "Sí, atendemos casos de urgencia (fallas eléctricas, fugas de agua, entre otros) dentro de nuestro horario de atención: lunes a sábado, de 8:00 a.m. a 5:00 p.m."
+  },
+  {
+    "id": "f4",
+    "question": "¿Los trabajos quedan con garantía?",
+    "answer": "Sí, cada trabajo se entrega con garantía por escrito. El tiempo de garantía varía según el tipo de servicio y se indica en la ficha de cada uno."
+  },
+  {
+    "id": "f5",
+    "question": "¿Las instalaciones eléctricas cumplen la normativa RETIE?",
+    "answer": "Sí, nuestras instalaciones y reparaciones eléctricas se realizan cumpliendo la normativa RETIE/RETILAP vigente en Colombia."
+  },
+  {
+    "id": "f6",
+    "question": "¿Cómo solicito una cotización?",
+    "answer": "Puedes escribirnos directamente por WhatsApp o diligenciar el formulario de contacto indicando el servicio que necesitas; te responderemos con la cotización o para agendar la visita técnica."
+  }
+]
