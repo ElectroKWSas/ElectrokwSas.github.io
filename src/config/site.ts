@@ -7,7 +7,7 @@ export const SITE = {
   slogan: "Una solución para cada ocasión",
   description:
     "Instalaciones y mantenimiento eléctrico, acueducto, gas domiciliario, cámaras de seguridad y cableado estructurado para hogares, conjuntos residenciales y empresas en Cundinamarca.",
-  url: "https://electrokw.github.io",
+  url: "https://electrokwsas.github.io",
   email: "electrokw.empresa@gmail.com",
   phoneDisplay: "+57 312 551 7663",
   whatsappNumber: import.meta.env.VITE_WHATSAPP_NUMBER || "573125517663",

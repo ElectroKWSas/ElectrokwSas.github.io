@@ -25,7 +25,7 @@ export async function submitContactForm(formData: ContactFormData): Promise<void
     date: now.toLocaleDateString("es-CO"),
     time: now.toLocaleTimeString("es-CO"),
     ip: await getVisitorIp(),
-    source: "electrokw.github.io",
+    source: "electrokwsas.github.io",
   };
 
   const response = await fetch(ENDPOINT, {

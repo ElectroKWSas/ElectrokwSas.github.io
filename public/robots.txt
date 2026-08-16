@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://electrokw.github.io/sitemap.xml
+Sitemap: https://electrokwsas.github.io/sitemap.xml
